@@ -1,4 +1,4 @@
-# PSoC 4 Based Smart Motor Control Unit
+# psoc4-smart-hood-power-control-firmware
 
 This repository contains the firmware components developed for a PSoC 4 based power control board. The project focuses on industrial motor control, power management, and secure communication.
 
